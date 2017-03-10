@@ -1,0 +1,856 @@
+Month,Day,Year,Date,Room,Name,Event,Event_Cat1,Event_Cat2,Count
+7,6,2016,7/6/2016,208,GSA,Art Exhibit,MC,MC,25
+7,1,2016,7/1/2016,RR,MFA Residency,Author Readings,MFA,MFA,60
+7,1,2016,7/1/2016,105,MFA Residency,Breakout Session,MFA,MFA,27
+7,1,2016,7/1/2016,106,MFA Residency,Breakout Session,MFA,MFA,13
+7,1,2016,7/1/2016,205,MFA Residency,Breakout Session,MFA,MFA,13
+7,1,2016,7/1/2016,208,MFA Residency,Breakout Session,MFA,MFA,17
+7,1,2016,7/1/2016,209,MFA Residency,Breakout Session,MFA,MFA,17
+9,8,2016,9/8/2016,105,"Phillips, Vicki",Class,IN,CL,6
+9,28,2016,9/28/2016,105,"VanGundy, Doug",Class,IN,CL,NA
+11,30,2016,11/30/2016,RR,"Bjorgo-Thorne, Kim",Class,IN,CL,36
+11,28,2016,11/28/2016,105,"Cresswell, Stephen",Class,IN,CL,28
+11,17,2016,11/17/2016,105,"Holguin, Patrick",Class,IN,CL,25
+12,2,2016,12/2/2016,105,"Cresswell, Stephen",Class,IN,CL,28
+12,5,2016,12/5/2016,105,"Cresswell, Stephen",Class,IN,CL,28
+12,1,2016,12/1/2016,105,"Holguin, Patrick",Class,IN,CL,25
+12,10,2016,12/10/2016,106,"Mallory, Bill",Class - Final Exam,IN,CL,17
+9,21,2016,9/21/2016,RR,"Bohman, John",Class - School health class,IN,CL,25
+9,23,2016,9/23/2016,RR,"Bohman, John",Class - School Health class,IN,CL,25
+9,8,2016,9/8/2016,106,"McGrew, Paula",Class - Setting up for class discussion,IN,CL,NA
+8,25,2016,8/25/2016,106,"Miller, Karen",Class: CJUS 497-01,IN,CL,18
+9,6,2016,9/6/2016,105,"Van Eerden, Jessie",Class: ENGL 102-01,IN,CL,NA
+10,28,2016,10/28/2016,105,"Rogers, Beth",Class: ENGL 102-05,IN,CL,NA
+11,16,2016,11/16/2016,RR,"Rogers, Beth",Class: ENGL 102-05 Composition work day,IN,CL,NA
+11,9,2016,11/9/2016,RR,"Bjorgo-Thorne, Kim",Class: ENVS 130,IN,CL,36
+9,8,2016,9/8/2016,105,"Warinsky, Suzanne",Class: ESL 124-01,IN,CL,NA
+10,3,2016,10/3/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,5,2016,10/5/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,7,2016,10/7/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,10,2016,10/10/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,12,2016,10/12/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,14,2016,10/14/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,17,2016,10/17/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,19,2016,10/19/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,21,2016,10/21/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,24,2016,10/24/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,26,2016,10/26/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,28,2016,10/28/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+10,31,2016,10/31/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+12,2,2016,12/2/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+12,5,2016,12/5/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+12,7,2016,12/7/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+12,12,2016,12/12/2016,106,"McNamara, Devon",Class: Human Rights,IN,CL,18
+11,2,2016,11/2/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,4,2016,11/4/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,7,2016,11/7/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,9,2016,11/9/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,11,2016,11/11/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,14,2016,11/14/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,16,2016,11/16/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,18,2016,11/18/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+11,28,2016,11/28/2016,106,"McNamara, Devon",Class: Human Rights ,IN,CL,18
+10,13,2016,10/13/2016,105,"McNamara, Devon",Class: Humanities,IN,CL,NA
+11,14,2016,11/14/2016,106,"McGrew, Paula",Class: IDNS 140-01,IN,CL,11
+11,16,2016,11/16/2016,106,"McGrew, Paula",Class: IDNS 140-01,IN,CL,11
+11,28,2016,11/28/2016,106,"McGrew, Paula",Class: IDNS 140-01,IN,CL,11
+11,30,2016,11/30/2016,106,"McGrew, Paula",Class: IDNS 140-01,IN,CL,11
+9,8,2016,9/8/2016,105,"McCauley, David",Class: INDS 102-04,IN,CL,15
+8,31,2016,8/31/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+8,29,2016,8/29/2016,106,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,2,2016,9/2/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,5,2016,9/5/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,7,2016,9/7/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,9,2016,9/9/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,12,2016,9/12/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,14,2016,9/14/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,16,2016,9/16/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,19,2016,9/19/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,21,2016,9/21/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,23,2016,9/23/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,26,2016,9/26/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,28,2016,9/28/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+9,30,2016,9/30/2016,105,"McNamara, Devon",Class: INDS 106-01,IN,CL,17
+8,23,2016,8/23/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+8,25,2016,8/25/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+8,30,2016,8/30/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,1,2016,9/1/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,6,2016,9/6/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,8,2016,9/8/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,13,2016,9/13/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,15,2016,9/15/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,20,2016,9/20/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,22,2016,9/22/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,27,2016,9/27/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+9,29,2016,9/29/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,4,2016,10/4/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,6,2016,10/6/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,11,2016,10/11/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,13,2016,10/13/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,18,2016,10/18/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,20,2016,10/20/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,25,2016,10/25/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+10,27,2016,10/27/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+11,1,2016,11/1/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+11,3,2016,11/3/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+11,8,2016,11/8/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+11,10,2016,11/10/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+11,15,2016,11/15/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+11,17,2016,11/17/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+11,29,2016,11/29/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+12,1,2016,12/1/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,17
+12,6,2016,12/6/2016,106,"Mallory, Bill",Class: INDS 108-01,IN,CL,18
+8,23,2016,8/23/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+8,25,2016,8/25/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+8,30,2016,8/30/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,1,2016,9/1/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,6,2016,9/6/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,8,2016,9/8/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,13,2016,9/13/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,15,2016,9/15/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,20,2016,9/20/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,22,2016,9/22/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,27,2016,9/27/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+9,29,2016,9/29/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,4,2016,10/4/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,6,2016,10/6/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,11,2016,10/11/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,13,2016,10/13/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,18,2016,10/18/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,20,2016,10/20/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,25,2016,10/25/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+10,27,2016,10/27/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+11,1,2016,11/1/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+11,3,2016,11/3/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+11,8,2016,11/8/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+11,10,2016,11/10/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+11,15,2016,11/15/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+11,17,2016,11/17/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+11,29,2016,11/29/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+12,1,2016,12/1/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+12,6,2016,12/6/2016,106,"McGrew, Paula",Class: INDS 113-01,IN,CL,17
+8,22,2016,8/22/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+8,24,2016,8/24/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+8,26,2016,8/26/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+8,29,2016,8/29/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+8,31,2016,8/31/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,2,2016,9/2/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,5,2016,9/5/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,7,2016,9/7/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,9,2016,9/9/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,12,2016,9/12/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,14,2016,9/14/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,16,2016,9/16/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,19,2016,9/19/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,21,2016,9/21/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,23,2016,9/23/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,26,2016,9/26/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,28,2016,9/28/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+9,30,2016,9/30/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,3,2016,10/3/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,5,2016,10/5/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,7,2016,10/7/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,10,2016,10/10/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,12,2016,10/12/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,14,2016,10/14/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,17,2016,10/17/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,19,2016,10/19/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,21,2016,10/21/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,24,2016,10/24/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,26,2016,10/26/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,28,2016,10/28/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,31,2016,10/31/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,2,2016,11/2/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,4,2016,11/4/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,7,2016,11/7/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,9,2016,11/9/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,11,2016,11/11/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,14,2016,11/14/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,16,2016,11/16/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,18,2016,11/18/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,28,2016,11/28/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+11,30,2016,11/30/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+12,2,2016,12/2/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+12,5,2016,12/5/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+12,7,2016,12/7/2016,106,"Mallory, Bill",Class: INDS 120-03,IN,CL,16
+10,10,2016,10/10/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+10,12,2016,10/12/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+10,17,2016,10/17/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+10,19,2016,10/19/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+10,24,2016,10/24/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+10,26,2016,10/26/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+10,31,2016,10/31/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+11,2,2016,11/2/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+11,7,2016,11/7/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+11,9,2016,11/9/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+12,5,2016,12/5/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+12,7,2016,12/7/2016,106,"McGrew, Paula",Class: INDS 140-01,IN,CL,11
+10,5,2016,10/5/2016,105,"McNamara, Devon",Class: NA,IN,CL,16
+10,20,2016,10/20/2016,210,"Howsare, Bobby",Class: Printmaking,IN,CL,12
+10,25,2016,10/25/2016,210,"Howsare, Bobby",Class: Printmaking,IN,CL,12
+12,2,2016,12/2/2016,105,"Glenney, Kathy",Class: video viewing,IN,CL,28
+8,23,2016,8/23/2016,205,"Bach, Jonathan",Group Study,GS,GS,2
+8,31,2016,8/31/2016,105,"Branch, Megan",Group Study,GS,GS,12
+8,28,2016,8/28/2016,106,"Gleason, Tyler",Group Study,GS,GS,3
+8,30,2016,8/30/2016,105,"Gookin, Avery",Group Study,GS,GS,10
+8,31,2016,8/31/2016,106,"Gookin, Avery",Group Study,GS,GS,10
+8,25,2016,8/25/2016,106,"Huber, James",Group Study,GS,GS,19
+8,26,2016,8/26/2016,106,"Lazarus, Ty",Group Study,GS,GS,12
+8,25,2016,8/25/2016,105,"Mullins, Chris",Group Study,GS,GS,3
+9,19,2016,9/19/2016,205,"Bible, Brittani",Group Study,GS,GS,3
+9,12,2016,9/12/2016,106,"Binda, Olivia",Group Study,GS,GS,4
+9,28,2016,9/28/2016,205,"Browning, Owen",Group Study,GS,GS,2
+9,29,2016,9/29/2016,205,"Browning, Owen",Group Study,GS,GS,2
+9,22,2016,9/22/2016,105,"Callison, Bailey",Group Study,GS,GS,4
+9,12,2016,9/12/2016,105,"Casey, Katherine",Group Study,GS,GS,4
+9,15,2016,9/15/2016,105,"Casto, Mary",Group Study,GS,GS,4
+9,11,2016,9/11/2016,205,"Clark, Conor",Group Study,GS,GS,3
+9,27,2016,9/27/2016,205,"DePetro, Elaina",Group Study,GS,GS,3
+9,26,2016,9/26/2016,209,"Dodson, Hannah",Group Study,GS,GS,6
+9,26,2016,9/26/2016,205,"Earnest, Savana",Group Study,GS,GS,2
+9,14,2016,9/14/2016,106,"Eberhart, Maya",Group Study,GS,GS,2
+9,25,2016,9/25/2016,106,"Eberhart, Maya",Group Study,GS,GS,2
+9,6,2016,9/6/2016,205,"Gandy, Seth",Group Study,GS,GS,4
+9,18,2016,9/18/2016,105,"Giberson, Ryan",Group Study,GS,GS,4
+9,6,2016,9/6/2016,106,"Gookin, Avery",Group Study,GS,GS,10
+9,12,2016,9/12/2016,209,"Harvey, Wilson",Group Study,GS,GS,5
+9,14,2016,9/14/2016,105,"Hickman, Deonna",Group Study,GS,GS,6
+9,30,2016,9/30/2016,106,"Hovis, Johnnie-Jo",Group Study,GS,GS,2
+9,1,2016,9/1/2016,106,"Huber, James",Group Study,GS,GS,19
+9,8,2016,9/8/2016,106,"Huber, James",Group Study,GS,GS,19
+9,15,2016,9/15/2016,106,"Huber, James",Group Study,GS,GS,19
+9,22,2016,9/22/2016,106,"Huber, James",Group Study,GS,GS,19
+9,29,2016,9/29/2016,106,"Huber, James",Group Study,GS,GS,19
+9,27,2016,9/27/2016,209,"Hunter, Megan",Group Study,GS,GS,2
+9,30,2016,9/30/2016,106,"Hutson, Nicole",Group Study,GS,GS,2
+9,26,2016,9/26/2016,205,"Johnson, Faith",Group Study,GS,GS,3
+9,27,2016,9/27/2016,106,"Jones, Andrew",Group Study,GS,GS,2
+9,27,2016,9/27/2016,105,"King, John",Group Study,GS,GS,2
+9,27,2016,9/27/2016,205,"Klein, Victoria",Group Study,GS,GS,2
+9,21,2016,9/21/2016,105,"McCoy, Ryleigh",Group Study,GS,GS,5
+9,20,2016,9/20/2016,106,"Mellert, Andrew",Group Study,GS,GS,2
+9,14,2016,9/14/2016,205,"Mitchell, Bobbi",Group Study,GS,GS,3
+9,27,2016,9/27/2016,209,"Moore, Allison",Group Study,GS,GS,2
+9,8,2016,9/8/2016,106,"Mullins, Chris",Group Study,GS,GS,4
+9,15,2016,9/15/2016,106,"Mullins, Chris",Group Study,GS,GS,3
+9,15,2016,9/15/2016,105,"Okehie, Ihuoma",Group Study,GS,GS,2
+9,11,2016,9/11/2016,205,"Pauley, John",Group Study,GS,GS,3
+9,21,2016,9/21/2016,205,"Pauley, John",Group Study,GS,GS,3
+9,22,2016,9/22/2016,106,"Perry, Adam",Group Study,GS,GS,7
+9,29,2016,9/29/2016,106,"Perry, Adam",Group Study,GS,GS,6
+9,22,2016,9/22/2016,209,"Pesic-Vidic, Kat",Group Study,GS,GS,2
+9,1,2016,9/1/2016,106,"Porter, Clayton",Group Study,GS,GS,2
+9,29,2016,9/29/2016,205,"Posey, Valerie",Group Study,GS,GS,2
+9,27,2016,9/27/2016,209,"Richards, Doneal",Group Study,GS,GS,2
+9,26,2016,9/26/2016,106,"Ringer, Dylan",Group Study,GS,GS,4
+9,15,2016,9/15/2016,106,"Roby, Virginia",Group Study,GS,GS,3
+9,7,2016,9/7/2016,205,"Saldanha, Matthew",Group Study,GS,GS,10
+9,18,2016,9/18/2016,106,"Seech, Garret",Group Study,GS,GS,3
+9,18,2016,9/18/2016,106,"Seech, Garret",Group Study,GS,GS,3
+9,21,2016,9/21/2016,209,"Shafer, Kacy",Group Study,GS,GS,2
+9,28,2016,9/28/2016,106,"Shreve, Kenzi",Group Study,GS,GS,4
+9,20,2016,9/20/2016,105,"Thomas, Connor",Group Study,GS,GS,3
+9,22,2016,9/22/2016,106,"Turner, Alysin",Group Study,GS,GS,2
+9,15,2016,9/15/2016,205,"Underwood, Brianna",Group Study,GS,GS,3
+9,26,2016,9/26/2016,205,"Yuya, Nakatania",Group Study,GS,GS,2
+10,30,2016,10/30/2016,106,"Arbaugh, Bethany",Group Study,GS,GS,4
+10,4,2016,10/4/2016,205,"Beckwith, Michael",Group Study,GS,GS,4
+10,12,2016,10/12/2016,205,"Browning, Owen",Group Study,GS,GS,3
+10,17,2016,10/17/2016,205,"Browning, Owen",Group Study,GS,GS,2
+10,18,2016,10/18/2016,205,"Browning, Owen",Group Study,GS,GS,3
+10,26,2016,10/26/2016,205,"Browning, Owen",Group Study,GS,GS,2
+10,3,2016,10/3/2016,106,"Burdette, Dakota",Group Study,GS,GS,2
+10,26,2016,10/26/2016,205,"Callison, Bailey",Group Study,GS,GS,5
+10,30,2016,10/30/2016,205,"Campion, Rachel",Group Study,GS,GS,2
+10,13,2016,10/13/2016,205,"Clower, Lauren",Group Study,GS,GS,4
+10,4,2016,10/4/2016,205,"Cole, Summer",Group Study,GS,GS,3
+10,30,2016,10/30/2016,105,"Crayne, Damien",Group Study,GS,GS,5
+10,10,2016,10/10/2016,205,"Dean, Coral",Group Study,GS,GS,4
+10,16,2016,10/16/2016,205,"Dean, Coral",Group Study,GS,GS,4
+10,4,2016,10/4/2016,106,"DePetro, Elaina",Group Study,GS,GS,4
+10,24,2016,10/24/2016,105,"Detamore, Caleb",Group Study,GS,GS,4
+10,25,2016,10/25/2016,209,"Detamore, Caleb",Group Study,GS,GS,NA
+10,24,2016,10/24/2016,205,"Doessing, Soeren",Group Study,GS,GS,3
+10,18,2016,10/18/2016,105,"Dumbita, Ryan",Group Study,GS,GS,3
+10,12,2016,10/12/2016,209,"Fain, Kaela",Group Study,GS,GS,3
+10,18,2016,10/18/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,19,2016,10/19/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,20,2016,10/20/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,23,2016,10/23/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,24,2016,10/24/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,25,2016,10/25/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,27,2016,10/27/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,30,2016,10/30/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,31,2016,10/31/2016,105,"Freeman, Christopher",Group Study,GS,GS,20
+10,17,2016,10/17/2016,106,"Freeman, Christopher",Group Study,GS,GS,20
+10,2,2016,10/2/2016,105,"Giberson, Ryan",Group Study,GS,GS,4
+10,30,2016,10/30/2016,209,"Harper, Charles",Group Study,GS,GS,3
+10,16,2016,10/16/2016,106,"Harvey, John",Group Study,GS,GS,2
+10,30,2016,10/30/2016,205,"Harvey, John",Group Study,GS,GS,6
+10,5,2016,10/5/2016,205,"Hennessy, Timothy",Group Study,GS,GS,2
+10,31,2016,10/31/2016,205,"Hennessy, Timothy",Group Study,GS,GS,3
+10,10,2016,10/10/2016,209,"Hennessy, Timothy",Group Study,GS,GS,2
+10,3,2016,10/3/2016,106,"Hovis, Johnnie-Jo",Group Study,GS,GS,2
+10,12,2016,10/12/2016,106,"Hovis, Johnnie-Jo",Group Study,GS,GS,3
+10,6,2016,10/6/2016,106,"Huber, James",Group Study,GS,GS,19
+10,13,2016,10/13/2016,106,"Huber, James",Group Study,GS,GS,19
+10,20,2016,10/20/2016,106,"Huber, James",Group Study,GS,GS,19
+10,27,2016,10/27/2016,106,"Huber, James",Group Study,GS,GS,19
+10,16,2016,10/16/2016,205,"Kibler, Amber",Group Study,GS,GS,4
+10,16,2016,10/16/2016,105,"Kimble, Dustin",Group Study,GS,GS,20
+10,18,2016,10/18/2016,105,"Kimble, Dustin",Group Study,GS,GS,20
+10,4,2016,10/4/2016,106,"Kimble, Dustin",Group Study,GS,GS,19
+10,6,2016,10/6/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,12,2016,10/12/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,13,2016,10/13/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,19,2016,10/19/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,20,2016,10/20/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,23,2016,10/23/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,25,2016,10/25/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,26,2016,10/26/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,27,2016,10/27/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,30,2016,10/30/2016,106,"Kimble, Dustin",Group Study,GS,GS,20
+10,27,2016,10/27/2016,209,"May, Caitlin",Group Study,GS,GS,5
+10,10,2016,10/10/2016,205,"Millard, Brianna",Group Study,GS,GS,4
+10,26,2016,10/26/2016,106,"Minnick, Alyssa",Group Study,GS,GS,3
+10,2,2016,10/2/2016,209,"Moore, Allison",Group Study,GS,GS,2
+10,11,2016,10/11/2016,205,"Morton, Taylor",Group Study,GS,GS,2
+10,4,2016,10/4/2016,209,"Mullins, Chris",Group Study,GS,GS,6
+10,24,2016,10/24/2016,205,"Nakatani, Yuya",Group Study,GS,GS,2
+10,9,2016,10/9/2016,105,"Pauley, John",Group Study,GS,GS,3
+10,6,2016,10/6/2016,205,"Pauley, John",Group Study,GS,GS,3
+10,13,2016,10/13/2016,106,"Perry, Adam",Group Study,GS,GS,3
+10,25,2016,10/25/2016,205,"Perry, Adam",Group Study,GS,GS,4
+10,4,2016,10/4/2016,105,"Porter, Clayton",Group Study,GS,GS,3
+10,9,2016,10/9/2016,105,"Porter, Clayton",Group Study,GS,GS,3
+10,31,2016,10/31/2016,205,"Porter, Clayton",Group Study,GS,GS,3
+10,9,2016,10/9/2016,205,"Rabatin, Sarah",Group Study,GS,GS,3
+10,10,2016,10/10/2016,209,"Rabatin, Sarah",Group Study,GS,GS,8
+10,10,2016,10/10/2016,209,"Rabatin, Sarah",Group Study,GS,GS,5
+10,26,2016,10/26/2016,209,"Rickels, Emma",Group Study,GS,GS,23
+10,25,2016,10/25/2016,205,"Ringer, Dylan",Group Study,GS,GS,8
+10,24,2016,10/24/2016,206,"Ringer, Dylan",Group Study,GS,GS,5
+10,4,2016,10/4/2016,105,"Spicer, Stephanie",Group Study,GS,GS,3
+10,6,2016,10/6/2016,205,"Spicer, Stephanie",Group Study,GS,GS,3
+10,6,2016,10/6/2016,205,"Spicer, Stephanie",Group Study,GS,GS,3
+10,30,2016,10/30/2016,209,"Stewart, Amy",Group Study,GS,GS,9
+10,9,2016,10/9/2016,106,"Sullivan, Jacob",Group Study,GS,GS,5
+11,3,2016,11/3/2016,205,"Blevins, Michael",Group Study,GS,GS,2
+11,17,2016,11/17/2016,209,"Boyd, Shelby",Group Study,GS,GS,2
+11,9,2016,11/9/2016,205,"Broadwater, Tyler",Group Study,GS,GS,4
+11,28,2016,11/28/2016,205,"Browning, Owen",Group Study,GS,GS,2
+11,30,2016,11/30/2016,205,"Browning, Owen",Group Study,GS,GS,3
+11,30,2016,11/30/2016,205,"Browning, Owen",Group Study,GS,GS,2
+11,8,2016,11/8/2016,209,"Bryan, Emma",Group Study,GS,GS,8
+11,11,2016,11/11/2016,105,"Campion, Rachel",Group Study,GS,GS,8
+11,6,2016,11/6/2016,205,"Clark, Conor",Group Study,GS,GS,3
+11,16,2016,11/16/2016,209,"Clark, Conor",Group Study,GS,GS,2
+11,7,2016,11/7/2016,105,"Clower, Lauren",Group Study,GS,GS,2
+11,14,2016,11/14/2016,106,"Clower, Lauren",Group Study,GS,GS,3
+11,30,2016,11/30/2016,106,"Dalton, Haley",Group Study,GS,GS,3
+11,8,2016,11/8/2016,205,"Dean, Coral",Group Study,GS,GS,5
+11,29,2016,11/29/2016,205,"Dean, Coral",Group Study,GS,GS,4
+11,1,2016,11/1/2016,106,"Dodson, Hannah",Group Study,GS,GS,5
+11,15,2016,11/15/2016,106,"Eberhart, Maya",Group Study,GS,GS,2
+11,28,2016,11/28/2016,209,"Fain, Kaela",Group Study,GS,GS,2
+11,29,2016,11/29/2016,106,"Flores, Nina",Group Study,GS,GS,5
+11,7,2016,11/7/2016,105,"Freeman, Chris",Group Study,GS,GS,5
+11,29,2016,11/29/2016,105,"Gillenwater, Kendra",Group Study,GS,GS,6
+11,1,2016,11/1/2016,205,"Gleason, Tyler",Group Study,GS,GS,3
+11,30,2016,11/30/2016,106,"Gonzalez, Jessica",Group Study,GS,GS,2
+11,29,2016,11/29/2016,209,"Gower, Makayla",Group Study,GS,GS,4
+11,9,2016,11/9/2016,205,"Hennessy, Timothy",Group Study,GS,GS,2
+11,3,2016,11/3/2016,105,"Hess, Alea",Group Study,GS,GS,2
+11,3,2016,11/3/2016,106,"Huber, James",Group Study,GS,GS,19
+11,10,2016,11/10/2016,106,"Huber, James",Group Study,GS,GS,19
+11,30,2016,11/30/2016,105,"Jacobs, Josh",Group Study,GS,GS,6
+11,8,2016,11/8/2016,105,"Johnson, Faith",Group Study,GS,GS,4
+11,28,2016,11/28/2016,205,"Johnson, Stephanie",Group Study,GS,GS,5
+11,29,2016,11/29/2016,205,"Kibler, Amber",Group Study,GS,GS,4
+11,10,2016,11/10/2016,106,"Kisiel, Benjamin",Group Study,GS,GS,3
+11,15,2016,11/15/2016,209,"Lailas, Nicholas",Group Study,GS,GS,5
+11,1,2016,11/1/2016,209,"Lasko, Kyra",Group Study,GS,GS,3
+11,1,2016,11/1/2016,209,"Lasko, Kyra",Group Study,GS,GS,2
+11,10,2016,11/10/2016,105,"Lowe, Hunter",Group Study,GS,GS,2
+11,13,2016,11/13/2016,106,"Mellert, Andrew",Group Study,GS,GS,3
+11,8,2016,11/8/2016,106,"Meyer, Susan",Group Study,GS,GS,5
+11,2,2016,11/2/2016,105,"Minnick, Alyssa",Group Study,GS,GS,3
+11,1,2016,11/1/2016,209,"Moore, Allison",Group Study,GS,GS,2
+11,17,2016,11/17/2016,106,"Mullins, Christian",Group Study,GS,GS,2
+11,17,2016,11/17/2016,106,"Mullins, Christian",Group Study,GS,GS,2
+11,30,2016,11/30/2016,105,"Mutchler, Zachary",Group Study,GS,GS,6
+11,14,2016,11/14/2016,106,NA,Group Study,GS,GS,2
+11,7,2016,11/7/2016,205,"Nakatani, Yuya",Group Study,GS,GS,2
+11,29,2016,11/29/2016,105,"Newton, Kat",Group Study,GS,GS,3
+11,10,2016,11/10/2016,105,"Okehie, Ihuoma",Group Study,GS,GS,2
+11,11,2016,11/11/2016,106,"Okehie, Ihuoma",Group Study,GS,GS,3
+11,15,2016,11/15/2016,106,"Okehie, Ihuoma",Group Study,GS,GS,2
+11,16,2016,11/16/2016,106,"Okehie, Ihuoma",Group Study,GS,GS,2
+11,6,2016,11/6/2016,106,"Pauley, John",Group Study,GS,GS,2
+11,9,2016,11/9/2016,106,"Perry, Adam",Group Study,GS,GS,5
+11,9,2016,11/9/2016,106,"Perry, Adam",Group Study,GS,GS,4
+11,9,2016,11/9/2016,106,"Perry, Adam",Group Study,GS,GS,4
+11,10,2016,11/10/2016,106,"Perry, Adam",Group Study,GS,GS,4
+11,7,2016,11/7/2016,205,"Perry, Adam",Group Study,GS,GS,4
+11,29,2016,11/29/2016,209,"Pesic-Vidic, Kat",Group Study,GS,GS,5
+11,30,2016,11/30/2016,209,"Pesic-Vidic, Kat",Group Study,GS,GS,5
+11,10,2016,11/10/2016,105,"Pinto, Rachel",Group Study,GS,GS,2
+11,6,2016,11/6/2016,209,"Pogue, Tori",Group Study,GS,GS,3
+11,1,2016,11/1/2016,205,"Porter, Clayton",Group Study,GS,GS,3
+11,22,2016,11/22/2016,106,"Posey, Valerie",Group Study,GS,GS,2
+11,22,2016,11/22/2016,106,"Posey, Valerie",Group Study,GS,GS,2
+11,13,2016,11/13/2016,209,"Ransom, Rachel",Group Study,GS,GS,2
+11,8,2016,11/8/2016,105,"Rebelo, Lawrence",Group Study,GS,GS,3
+11,14,2016,11/14/2016,205,"Rogalski, Stephen",Group Study,GS,GS,3
+11,15,2016,11/15/2016,205,"Rogalski, Stephen",Group Study,GS,GS,4
+11,15,2016,11/15/2016,205,"Rogalski, Stephen",Group Study,GS,GS,4
+11,16,2016,11/16/2016,205,"Rogalski, Stephen",Group Study,GS,GS,4
+11,16,2016,11/16/2016,205,"Rogalski, Stephen",Group Study,GS,GS,4
+11,17,2016,11/17/2016,205,"Rogalski, Stephen",Group Study,GS,GS,3
+11,28,2016,11/28/2016,106,"Schmidle, Alexis",Group Study,GS,GS,4
+11,1,2016,11/1/2016,205,"Snavely, James",Group Study,GS,GS,3
+11,1,2016,11/1/2016,205,"Snavely, James",Group Study,GS,GS,4
+11,17,2016,11/17/2016,209,"Snavely, James",Group Study,GS,GS,5
+11,9,2016,11/9/2016,205,"Teets, Delana",Group Study,GS,GS,6
+11,28,2016,11/28/2016,105,"Thomas, Connor",Group Study,GS,GS,4
+12,8,2016,12/8/2016,205,"Antonelli, Hannah",Group Study,GS,GS,3
+12,2,2016,12/2/2016,205,"Browning, Owen",Group Study,GS,GS,2
+12,8,2016,12/8/2016,209,"Browning, Owen",Group Study,GS,GS,2
+12,5,2016,12/5/2016,105,"Bryan, Emma",Group Study,GS,GS,6
+12,7,2016,12/7/2016,106,"Bryan, Emma",Group Study,GS,GS,4
+12,7,2016,12/7/2016,106,"Bryan, Emma",Group Study,GS,GS,5
+12,11,2016,12/11/2016,106,"Bryan, Emma",Group Study,GS,GS,4
+12,4,2016,12/4/2016,105,"Castellon, Christian",Group Study,GS,GS,2
+12,8,2016,12/8/2016,209,"Chambers, Emily",Group Study,GS,GS,5
+12,11,2016,12/11/2016,105,"Clower, Lauren",Group Study,GS,GS,2
+12,12,2016,12/12/2016,105,"Clower, Lauren",Group Study,GS,GS,2
+12,8,2016,12/8/2016,106,"Clower, Lauren",Group Study,GS,GS,3
+12,9,2016,12/9/2016,205,"Conaway, Kari",Group Study,GS,GS,5
+12,1,2016,12/1/2016,106,"Dalton, Haley",Group Study,GS,GS,2
+12,8,2016,12/8/2016,105,"Dean, Coral",Group Study,GS,GS,5
+12,5,2016,12/5/2016,205,"Dean, Coral",Group Study,GS,GS,4
+12,6,2016,12/6/2016,205,"Dean, Coral",Group Study,GS,GS,5
+12,9,2016,12/9/2016,106,"Dils, Elizabeth",Group Study,GS,GS,4
+12,8,2016,12/8/2016,209,"Dils, Elizabeth",Group Study,GS,GS,2
+12,9,2016,12/9/2016,209,"Dils, Elizabeth",Group Study,GS,GS,2
+12,7,2016,12/7/2016,205,"Felton, Wesley",Group Study,GS,GS,4
+12,8,2016,12/8/2016,205,"Felton, Wesley",Group Study,GS,GS,3
+12,5,2016,12/5/2016,209,"Felton, Wesley",Group Study,GS,GS,3
+12,6,2016,12/6/2016,209,"Freeman, Parris",Group Study,GS,GS,2
+12,7,2016,12/7/2016,209,"Gahima, Manzi",Group Study,GS,GS,3
+12,6,2016,12/6/2016,105,"Gleason, Tyler",Group Study,GS,GS,3
+12,4,2016,12/4/2016,106,"Gleason, Tyler",Group Study,GS,GS,3
+12,11,2016,12/11/2016,205,"Gleason, Tyler",Group Study,GS,GS,2
+12,11,2016,12/11/2016,205,"Gleason, Tyler",Group Study,GS,GS,2
+12,4,2016,12/4/2016,105,"Gore, Olivia",Group Study,GS,GS,5
+12,9,2016,12/9/2016,209,"Gorges, Phoebe",Group Study,GS,GS,3
+12,11,2016,12/11/2016,209,"Harvey, John",Group Study,GS,GS,6
+12,11,2016,12/11/2016,209,"Harvey, John",Group Study,GS,GS,6
+12,7,2016,12/7/2016,209,"Hennessy, Timothy",Group Study,GS,GS,2
+12,6,2016,12/6/2016,106,"Hess, Alea",Group Study,GS,GS,3
+12,9,2016,12/9/2016,106,"Hovis, Johnnie Jo",Group Study,GS,GS,2
+12,1,2016,12/1/2016,106,"Huber, James",Group Study,GS,GS,19
+12,1,2016,12/1/2016,205,"Hudson, Nicole",Group Study,GS,GS,4
+12,4,2016,12/4/2016,209,"Hunter, Megan",Group Study,GS,GS,6
+12,5,2016,12/5/2016,209,"Hunter, Megan",Group Study,GS,GS,5
+12,9,2016,12/9/2016,209,"Hunter, Megan",Group Study,GS,GS,2
+12,9,2016,12/9/2016,209,"Hunter, Megan",Group Study,GS,GS,3
+12,11,2016,12/11/2016,209,"Johnson, Faith",Group Study,GS,GS,5
+12,6,2016,12/6/2016,105,"Jones, Andrew",Group Study,GS,GS,3
+12,4,2016,12/4/2016,205,"Kerns, Tre",Group Study,GS,GS,2
+12,4,2016,12/4/2016,205,"Kerns, Tre",Group Study,GS,GS,3
+12,2,2016,12/2/2016,105,"Kibler, Amber",Group Study,GS,GS,2
+12,8,2016,12/8/2016,105,"Kibler, Amber",Group Study,GS,GS,5
+12,7,2016,12/7/2016,106,"Kibler, Amber",Group Study,GS,GS,5
+12,5,2016,12/5/2016,205,"Kibler, Amber",Group Study,GS,GS,5
+12,6,2016,12/6/2016,205,"Kibler, Amber",Group Study,GS,GS,5
+12,9,2016,12/9/2016,106,"Klein, Victoria",Group Study,GS,GS,4
+12,8,2016,12/8/2016,209,"Klein, Victoria",Group Study,GS,GS,2
+12,5,2016,12/5/2016,205,"Knox, Donald",Group Study,GS,GS,2
+12,1,2016,12/1/2016,105,"Lailas, Nicholas",Group Study,GS,GS,5
+12,8,2016,12/8/2016,209,"Lasko, Kyra",Group Study,GS,GS,3
+12,8,2016,12/8/2016,105,"Lewis, Addie",Group Study,GS,GS,3
+12,4,2016,12/4/2016,106,"Magaraci, Matthew",Group Study,GS,GS,5
+12,11,2016,12/11/2016,105,"Matter, Morgan",Group Study,GS,GS,2
+12,8,2016,12/8/2016,106,"McNamara, Devon",Group Study,GS,GS,12
+12,7,2016,12/7/2016,105,"Millard, Brianna",Group Study,GS,GS,4
+12,8,2016,12/8/2016,105,"Millard, Brianna",Group Study,GS,GS,5
+12,8,2016,12/8/2016,209,"Moore, Allison",Group Study,GS,GS,5
+12,4,2016,12/4/2016,205,"Moore, Tre",Group Study,GS,GS,3
+12,5,2016,12/5/2016,205,"Mullins, Chris",Group Study,GS,GS,2
+12,7,2016,12/7/2016,209,"Mullins, Chris",Group Study,GS,GS,2
+12,5,2016,12/5/2016,205,"Nakatani, Yuya",Group Study,GS,GS,2
+12,9,2016,12/9/2016,105,"O'Leary, Kelsey",Group Study,GS,GS,15
+12,8,2016,12/8/2016,106,"O'Leary, Kelsey",Group Study,GS,GS,10
+12,11,2016,12/11/2016,106,"Okehie, Ihuoma",Group Study,GS,GS,2
+12,1,2016,12/1/2016,106,"Painter, Caylee",Group Study,GS,GS,5
+12,7,2016,12/7/2016,205,"Pappas, Samantha",Group Study,GS,GS,3
+12,3,2016,12/3/2016,105,"Pesic-Vidic, Kat",Group Study,GS,GS,8
+12,4,2016,12/4/2016,105,"Pesic-Vidic, Kat",Group Study,GS,GS,NA
+12,8,2016,12/8/2016,205,"Pesic-Vidic, Kat",Group Study,GS,GS,2
+12,11,2016,12/11/2016,205,"Pesic-Vidic, Kat",Group Study,GS,GS,2
+12,11,2016,12/11/2016,205,"Pesic-Vidic, Kat",Group Study,GS,GS,2
+12,1,2016,12/1/2016,209,"Pesic-Vidic, Kat",Group Study,GS,GS,5
+12,6,2016,12/6/2016,209,"Pesic-Vidic, Kat",Group Study,GS,GS,5
+12,9,2016,12/9/2016,209,"Ransom, Rachel",Group Study,GS,GS,2
+12,10,2016,12/10/2016,106,"Rebelo, Lawrence",Group Study,GS,GS,2
+12,5,2016,12/5/2016,205,"Rebelo, Lawrence",Group Study,GS,GS,1
+12,6,2016,12/6/2016,106,"Ridgeway, Tiffany",Group Study,GS,GS,3
+12,9,2016,12/9/2016,205,"Ridgeway, Tiffany",Group Study,GS,GS,4
+12,8,2016,12/8/2016,205,"Salas, Isabella",Group Study,GS,GS,5
+12,9,2016,12/9/2016,205,"Salas, Isabella",Group Study,GS,GS,5
+12,2,2016,12/2/2016,106,"Schaffner, Natalie",Group Study,GS,GS,3
+12,8,2016,12/8/2016,106,"Segraves, Dustin",Group Study,GS,GS,10
+12,6,2016,12/6/2016,105,"Shell, Austin",Group Study,GS,GS,2
+12,9,2016,12/9/2016,105,"Squires, Quinten",Group Study,GS,GS,5
+12,7,2016,12/7/2016,105,"Stansberry, Sydney",Group Study,GS,GS,6
+12,7,2016,12/7/2016,106,"Thomas, Sharee",Group Study,GS,GS,5
+12,8,2016,12/8/2016,105,"Tucker, Keri",Group Study,GS,GS,4
+12,4,2016,12/4/2016,106,"Turner, Alysin",Group Study,GS,GS,2
+12,6,2016,12/6/2016,106,"Turner, Alysin",Group Study,GS,GS,2
+12,8,2016,12/8/2016,106,"Turner, Alysin",Group Study,GS,GS,2
+12,5,2016,12/5/2016,105,"Wagner, Kassey",Group Study,GS,GS,3
+12,8,2016,12/8/2016,106,"Wagner, Kassey",Group Study,GS,GS,4
+12,9,2016,12/9/2016,205,"Wagner, Kassey",Group Study,GS,GS,5
+12,9,2016,12/9/2016,105,"Warner, Logan",Group Study,GS,GS,5
+12,5,2016,12/5/2016,209,"Williams, Megan",Group Study,GS,GS,2
+12,5,2016,12/5/2016,106,"Yanero, Jacob",Group Study,GS,GS,3
+9,7,2016,9/7/2016,105,"Bach, Jonathan",Individual Study Session,IS,IS,1
+9,21,2016,9/21/2016,106,"Lambert, Allie",Individual Study Session,IS,IS,1
+9,26,2016,9/26/2016,105,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+9,28,2016,9/28/2016,105,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+9,15,2016,9/15/2016,105,"Pimenta, Paula",Individual Study Session,IS,IS,1
+9,30,2016,9/30/2016,205,"Pimenta, Paula",Individual Study Session,IS,IS,1
+9,21,2016,9/21/2016,106,"Turner, Alysin",Individual Study Session,IS,IS,1
+9,5,2016,9/5/2016,106,"Williams, Shana",Individual Study Session,IS,IS,1
+9,7,2016,9/7/2016,205,"Winkie, Mason",Individual Study Session,IS,IS,1
+10,7,2016,10/7/2016,106,"Bolen, Tyler",Individual Study Session,IS,IS,1
+10,10,2016,10/10/2016,106,"Dils, Elizabeth",Individual Study Session,IS,IS,1
+10,29,2016,10/29/2016,106,"Eberhart, Maya",Individual Study Session,IS,IS,1
+10,31,2016,10/31/2016,106,"Lilly, Jessica",Individual Study Session,IS,IS,1
+10,6,2016,10/6/2016,105,"Seech, Garrett",Individual Study Session,IS,IS,1
+10,5,2016,10/5/2016,209,"Seech, Garrett",Individual Study Session,IS,IS,1
+10,25,2016,10/25/2016,105,"Turner, Alysin",Individual Study Session,IS,IS,1
+10,24,2016,10/24/2016,106,"Turner, Alysin",Individual Study Session,IS,IS,1
+10,9,2016,10/9/2016,209,"Williams, Shana",Individual Study Session,IS,IS,1
+11,17,2016,11/17/2016,105,"Gleason, Tyler",Individual Study Session,IS,IS,1
+11,1,2016,11/1/2016,105,"Harper, Charles",Individual Study Session,IS,IS,1
+11,6,2016,11/6/2016,105,"Harper, Charles",Individual Study Session,IS,IS,1
+11,1,2016,11/1/2016,205,"Harper, Charles",Individual Study Session,IS,IS,1
+11,8,2016,11/8/2016,205,"Harper, Charles",Individual Study Session,IS,IS,1
+11,15,2016,11/15/2016,105,"Lambert, Allie",Individual Study Session,IS,IS,1
+11,28,2016,11/28/2016,106,"Lilly, Jessica",Individual Study Session,IS,IS,1
+11,14,2016,11/14/2016,105,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+11,17,2016,11/17/2016,105,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+11,9,2016,11/9/2016,209,"Pesic-Vidic, Kat",Individual Study Session,IS,IS,1
+11,9,2016,11/9/2016,106,"Teets, Delana",Individual Study Session,IS,IS,1
+11,8,2016,11/8/2016,105,"Turner, Alysin",Individual Study Session,IS,IS,1
+11,7,2016,11/7/2016,106,"Turner, Alysin",Individual Study Session,IS,IS,1
+11,28,2016,11/28/2016,205,"Wagman, Dillon",Individual Study Session,IS,IS,1
+11,30,2016,11/30/2016,106,"Yanero, Jacob",Individual Study Session,IS,IS,1
+12,9,2016,12/9/2016,106,"Bryan, Emma",Individual Study Session,IS,IS,1
+12,11,2016,12/11/2016,106,"Felton, Wesley",Individual Study Session,IS,IS,1
+12,6,2016,12/6/2016,105,"Gleason, Tyler",Individual Study Session,IS,IS,1
+12,7,2016,12/7/2016,205,"Gleason, Tyler",Individual Study Session,IS,IS,1
+12,1,2016,12/1/2016,209,"Hoge, Kat",Individual Study Session,IS,IS,1
+12,5,2016,12/5/2016,106,"Lilly, Jessica",Individual Study Session,IS,IS,1
+12,8,2016,12/8/2016,205,"Mueller, Michael",Individual Study Session,IS,IS,1
+12,1,2016,12/1/2016,105,"Mutchler, Zachary",Individual Study Session,IS,IS,1
+12,9,2016,12/9/2016,105,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+12,5,2016,12/5/2016,106,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+12,6,2016,12/6/2016,106,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+12,8,2016,12/8/2016,106,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+12,9,2016,12/9/2016,106,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+12,11,2016,12/11/2016,106,"Okehie, Ihuoma",Individual Study Session,IS,IS,1
+12,11,2016,12/11/2016,205,"Pesic-Vidic, Kat",Individual Study Session,IS,IS,1
+12,11,2016,12/11/2016,205,"Pesic-Vidic, Kat",Individual Study Session,IS,IS,1
+12,1,2016,12/1/2016,209,"Phelps, Brooke",Individual Study Session,IS,IS,1
+12,9,2016,12/9/2016,105,"Pimenta, Paula",Individual Study Session,IS,IS,1
+12,7,2016,12/7/2016,205,"Rendon, Jacobo",Individual Study Session,IS,IS,1
+12,4,2016,12/4/2016,106,"Thompson, Lamar",Individual Study Session,IS,IS,1
+11,15,2016,11/15/2016,104,"Warsinsky, Suzanne",Individual Study Session - Grading,IS,IS,1
+11,15,2016,11/15/2016,104,"Warsinsky, Suzanne",Individual Study Session - Grading,IS,IS,1
+11,16,2016,11/16/2016,104,"Warsinsky, Suzanne",Individual Study Session - Grading,IS,IS,1
+11,18,2016,11/18/2016,105,"Warsinsky, Suzanne",Individual Study Session - Grading,IS,IS,1
+12,7,2016,12/7/2016,104,"Higginbotham, Ashley",Individual Study Session - Grading,IS,IS,2
+8,30,2016,8/30/2016,105,"Conrad, Kimberly",Instruction,IN,IN,33
+8,30,2016,8/30/2016,105,"Conrad, Kimberly",Instruction,IN,IN,36
+8,31,2016,8/31/2016,105,"Conrad, Kimberly",Instruction,IN,IN,19
+8,31,2016,8/31/2016,105,"Emrick, Rae",Instruction,IN,IN,10
+8,29,2016,8/29/2016,105,"Marsh, Lindsey",Instruction,IN,IN,26
+8,31,2016,8/31/2016,105,"Martin, Dan",Instruction,IN,IN,5
+8,26,2016,8/26/2016,105,"Zinzer, Scott",Instruction,IN,IN,6
+9,19,2016,9/19/2016,105,"Antolini, Katharine",Instruction,IN,IN,9
+9,16,2016,9/16/2016,105,"Coffman, Amy",Instruction,IN,IN,31
+9,1,2016,9/1/2016,105,"Dib, Anita",Instruction,IN,IN,5
+9,13,2016,9/13/2016,105,"Emrick, Rae",Instruction,IN,IN,26
+9,29,2016,9/29/2016,105,"Linder, Lynn",Instruction,IN,IN,13
+9,7,2016,9/7/2016,105,"McCauley, David",Instruction,IN,IN,25
+9,14,2016,9/14/2016,105,"Petitto, Karen",Instruction,IN,IN,26
+9,14,2016,9/14/2016,105,"Petitto, Karen",Instruction,IN,IN,16
+9,22,2016,9/22/2016,105,"Petitto, Karen",Instruction,IN,IN,15
+9,27,2016,9/27/2016,105,"Petitto, Karen",Instruction,IN,IN,9
+9,30,2016,9/30/2016,105,"Poling, Theresa",Instruction,IN,IN,35
+9,28,2016,9/28/2016,105,"Probst, Traci",Instruction,IN,IN,26
+9,28,2016,9/28/2016,105,"Probst, Traci",Instruction,IN,IN,15
+9,29,2016,9/29/2016,105,"Pugh, Allison",Instruction,IN,IN,18
+9,9,2016,9/9/2016,105,"Samples, Tammy",Instruction,IN,IN,16
+9,9,2016,9/9/2016,105,"Samples, Tammy",Instruction,IN,IN,20
+9,27,2016,9/27/2016,105,"Van Eerden, Jessie",Instruction,IN,IN,21
+9,13,2016,9/13/2016,105,"Wagonner, Eric",Instruction,IN,IN,6
+9,6,2016,9/6/2016,105,"Warinsky, Suzanne",Instruction,IN,IN,5
+10,31,2016,10/31/2016,105,"Dib, Anita",Instruction,IN,IN,NA
+10,26,2016,10/26/2016,105,"Harsh, Susan",Instruction,IN,IN,NA
+10,26,2016,10/26/2016,105,"Howsare, Bobby",Instruction,IN,IN,NA
+10,28,2016,10/28/2016,105,"Linder, Lynn",Instruction,IN,IN,NA
+10,10,2016,10/10/2016,105,"Mach, Greg",Instruction,IN,IN,19
+10,11,2016,10/11/2016,105,"Okes, Jill",Instruction,IN,IN,20
+10,27,2016,10/27/2016,105,"Rupp, Lynn",Instruction,IN,IN,NA
+11,3,2016,11/3/2016,105,"Lawson, Ashley",Instruction,IN,IN,NA
+11,28,2016,11/28/2016,105,"Linder, Lynn",Instruction,IN,IN,NA
+11,9,2016,11/9/2016,105,"Rogers, Beth",Instruction,IN,IN,NA
+10,13,2016,10/13/2016,205,"Huber, James",Interview,MC,IV,1
+10,27,2016,10/27/2016,209,"Okes, Jill",Interview,MC,IV,NA
+12,9,2016,12/9/2016,105,"Smith, Cameron",Interview,MC,IV,1
+11,15,2016,11/15/2016,205,"Echard, Ryan",Interviews,MC,IV,1
+11,15,2016,11/15/2016,205,"Echard, Ryan",Interviews,MC,IV,1
+7,25,2016,7/25/2016,205,"Rogers, Beth",Library Staff Meeting,MG,MG,10
+8,1,2016,8/1/2016,104,NA,Meeting,MG,MG,NA
+8,2,2016,8/2/2016,104,NA,Meeting,MG,MG,NA
+8,17,2016,8/17/2016,104,"Probst, Traci",Meeting,MG,MG,2
+9,15,2016,9/15/2016,105,"Gibson, Tony",Meeting,MG,MG,25
+9,6,2016,9/6/2016,105,"Gillenwater, Kendra",Meeting,MG,MG,10
+9,8,2016,9/8/2016,105,"Johnston, Joanna",Meeting,MG,MG,10
+9,2,2016,9/2/2016,106,"Leadingham, Mark",Meeting,MG,MG,7
+9,19,2016,9/19/2016,106,"McGrew, Paula",Meeting,MG,MG,3
+10,18,2016,10/18/2016,106,"Badawey, Tori",Meeting,MG,MG,NA
+10,11,2016,10/11/2016,106,"Kimble, Dustin",Meeting,MG,MG,20
+10,17,2016,10/17/2016,106,"McGrew, Paula",Meeting,MG,MG,NA
+10,26,2016,10/26/2016,106,"Okes, Jill",Meeting,MG,MG,5
+10,24,2016,10/24/2016,209,"Ritchey, Rachel",Meeting,MG,MG,2
+10,10,2016,10/10/2016,105,"Van Gundy, Doug",Meeting,MG,MG,40
+10,27,2016,10/27/2016,205,"Wanielista, Karly",Meeting,MG,MG,12
+11,29,2016,11/29/2016,105,"Bryan, Emma",Meeting,MG,MG,8
+11,1,2016,11/1/2016,106,"Bryan, Emma",Meeting,MG,MG,9
+11,30,2016,11/30/2016,105,"Gillenwater, Kendra",Meeting,MG,MG,6
+11,1,2016,11/1/2016,106,"Kimble, Dustin",Meeting,MG,MG,13
+11,16,2016,11/16/2016,105,"Pesic-Vidic, Kat",Meeting,MG,MG,10
+12,6,2016,12/6/2016,209,"Pesic-Vidic, Kat",Meeting,MG,MG,3
+12,7,2016,12/7/2016,106,"Snyder, Aurora",Meeting ,MG,MG,15
+9,13,2016,9/13/2016,210,"Curry, Robyn",Meeting - Admission & Academic Standing,MG,MG,9
+11,8,2016,11/8/2016,210,"Curry, Robyn",Meeting - Admission & Academic Standing,MG,MG,9
+10,11,2016,10/11/2016,210,"Curry, Robyn",Meeting - Admission & Academic Standing ,MG,MG,9
+9,29,2016,9/29/2016,106,"Rogers, Beth",Meeting - Book discussion club,MG,MG,NA
+8,1,2016,8/1/2016,106,"Rogers, Beth",Meeting - Book discussion group,MG,MG,NA
+8,25,2016,8/25/2016,106,"Rogers, Beth",Meeting - Book discussion group,MG,MG,7
+12,1,2016,12/1/2016,106,"Rogers, Beth",Meeting - Book Discussion Group,MG,MG,NA
+11,18,2016,11/18/2016,104,"McGrew, Paula",Meeting - Book Salesperson,MG,MG,3
+8,25,2016,8/25/2016,104,"Probst, Traci","Meeting - Coffee & Conversation, CTL",MG,MG,4
+9,1,2016,9/1/2016,104,"Probst, Traci","Meeting - Coffee & Conversation, CTL",MG,MG,3
+9,8,2016,9/8/2016,104,"Probst, Traci","Meeting - Coffee & Conversation, CTL",MG,MG,4
+9,15,2016,9/15/2016,104,"Probst, Traci","Meeting - Coffee & Conversation, CTL",MG,MG,4
+9,22,2016,9/22/2016,104,"Probst, Traci","Meeting - Coffee & Conversation, CTL",MG,MG,4
+10,6,2016,10/6/2016,104,"Probst, Traci","Meeting - Coffee and Conversation, CTL",MG,MG,4
+10,13,2016,10/13/2016,104,"Probst, Traci","Meeting - Coffee and Conversation, CTL",MG,MG,3
+11,3,2016,11/3/2016,104,"Probst, Traci","Meeting - Coffee and Conversation, CTL",MG,MG,4
+11,10,2016,11/10/2016,104,"Probst, Traci","Meeting - Coffee and Conversation, CTL",MG,MG,4
+11,17,2016,11/17/2016,104,"Probst, Traci","Meeting - Coffee and Conversation, CTL",MG,MG,4
+12,1,2016,12/1/2016,104,"Probst, Traci","Meeting - Coffee and Conversation, CTL",MG,MG,4
+12,15,2016,12/15/2016,104,"Probst, Traci","Meeting - Coffee and Conversation, CTL",MG,MG,4
+9,22,2016,9/22/2016,105,"Johnston, Joanna",Meeting - College Republicans,MG,MG,10
+9,21,2016,9/21/2016,106,"Mallory, Bill",Meeting - Conference TIAA,MG,MG,3
+8,30,2016,8/30/2016,210,"Curry, Robyn",Meeting - Curriculum Council,MG,MG,11
+9,27,2016,9/27/2016,210,"Curry, Robyn",Meeting - Curriculum Council,MG,MG,11
+10,25,2016,10/25/2016,210,"Curry, Robyn",Meeting - Curriculum Council,MG,MG,11
+11,29,2016,11/29/2016,210,"Curry, Robyn",Meeting - Curriculum Council,MG,MG,11
+9,1,2016,9/1/2016,210,"Curry, Robyn",Meeting - Faculty Senate,MG,MG,9
+10,4,2016,10/4/2016,210,"Curry, Robyn",Meeting - Faculty Senate,MG,MG,9
+11,1,2016,11/1/2016,210,"Curry, Robyn",Meeting - Faculty Senate,MG,MG,9
+12,6,2016,12/6/2016,210,"Curry, Robyn",Meeting - Faculty Senate,MG,MG,8
+10,5,2016,10/5/2016,106,"Kimble, Dustin",Meeting - Fraternity class,MG,MG,19
+10,9,2016,10/9/2016,106,"Kimble, Dustin",Meeting - Fraternity education,MG,MG,20
+11,16,2016,11/16/2016,205,"Keith, Seth",Meeting - Fraternity Training ,MG,MG,3
+11,10,2016,11/10/2016,106,"Lazarus, Tyler",Meeting - Fraternity Training ,MG,MG,12
+11,9,2016,11/9/2016,105,"Lazarus, Tyler",Meeting - Fraternity Training ,MG,MG,30
+11,12,2016,11/12/2016,RR,"Antolini, Katharine",Meeting - Gender studies conference,MG,MG,NA
+10,10,2016,10/10/2016,205,"Baisden, Grace",Meeting - Individual Study Session,MG,MG,1
+10,27,2016,10/27/2016,209,"Rupp, Lynn",Meeting - Info Session,MG,MG,14
+10,4,2016,10/4/2016,105,"Dib, Anita",Meeting - Library training for mentors,MG,MG,10
+12,9,2016,12/9/2016,104,"Brissey, Cynthia",Meeting - New Faculty,MG,MG,NA
+8,15,2016,8/15/2016,104,"Meadows, Melody",Meeting - New Faculty Orientation,MG,MG,20
+9,23,2016,9/23/2016,104,"Brissey, Cynthia",Meeting - New Faculty Orientation,MG,MG,2
+10,14,2016,10/14/2016,104,"Brissey, Cynthia",Meeting - New Faculty Orientation,MG,MG,9
+12,9,2016,12/9/2016,104,"Brissey, Cynthia",Meeting - New Faculty Orientation,MG,MG,NA
+12,8,2016,12/8/2016,106,"Bowman, Carol",Meeting - Party/meeting,MG,MG,23
+11,7,2016,11/7/2016,210,"Meadows, Melody",Meeting - President's Commission,MG,MG,NA
+9,22,2016,9/22/2016,210,"Curry, Robyn",Meeting - Professional Affairs Council,MG,MG,6
+11,15,2016,11/15/2016,210,"Curry, Robyn",Meeting - Professional Affairs Council,MG,MG,6
+8,23,2016,8/23/2016,105,"Lazarus, Ty",Meeting - Risk Management Program (Frat),MG,MG,25
+11,17,2016,11/17/2016,104,"Brissey, Cynthia",Meeting - School Directors and others,MG,MG,NA
+8,15,2016,8/15/2016,210,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+8,29,2016,8/29/2016,210,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+9,14,2016,9/14/2016,210,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+9,26,2016,9/26/2016,210,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+10,10,2016,10/10/2016,205,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+10,24,2016,10/24/2016,210,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+11,7,2016,11/7/2016,210,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+12,5,2016,12/5/2016,210,"Curry, Robyn",Meeting - School Directors Meeting,MG,MG,9
+8,22,2016,8/22/2016,105,"Petitto, Karen",Meeting - Student Teacher Meeting,MG,MG,11
+9,22,2016,9/22/2016,104,"Brissey, Cynthia",Meeting - Travel - Bailey,MG,MG,2
+9,14,2016,9/14/2016,104,"Brissey, Cynthia",Meeting - Travel-March,MG,MG,3
+9,1,2016,9/1/2016,104,"Brissey, Cynthia",Meeting - Travel-Physiology,MG,MG,9
+9,13,2016,9/13/2016,104,"Brissey, Cynthia",Meeting - Travel: Bjorgo-Thorne,MG,MG,5
+10,4,2016,10/4/2016,104,"Brissey, Cynthia",Meeting - Travel: Clever,MG,MG,4
+10,11,2016,10/11/2016,104,"Brissey, Cynthia",Meeting - Travel: Thompson,MG,MG,9
+11,10,2016,11/10/2016,105,"Tuckwiller, Leah",Meeting - Vandalia staff meeting,MG,MG,10
+10,31,2016,10/31/2016,210,"Linder, Lynn",Meeting - Women in Leadership Meeting,MG,MG,8
+12,2,2016,12/2/2016,104,"Brissey, Cynthia",Meeting - Work in CTL,MG,MG,3
+10,26,2016,10/26/2016,104,"Kurfman, Lily",Meeting - Year-End,MG,MG,3
+10,27,2016,10/27/2016,106,"Rogers, Beth",Meeting Book discussion group,MG,MG,NA
+11,17,2016,11/17/2016,104,"Brissey, Cynthia",Meeting with Joan Hawthorne,MG,MG,NA
+8,16,2016,8/16/2016,104,"McGrew, Paula",Meeting with New Faculty,MG,MG,10
+9,29,2016,9/29/2016,104,"Probst, Traci","MeetingCoffee & Conversation, CTL",MG,MG,5
+10,27,2016,10/27/2016,104,"Probst, Traci","MeetingCoffee and Conversation, CTL",MG,MG,2
+7,2,2016,7/2/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,3,2016,7/3/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,4,2016,7/4/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,5,2016,7/5/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,6,2016,7/6/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,7,2016,7/7/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,8,2016,7/8/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,9,2016,7/9/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+7,10,2016,7/10/2016,104,"Brissey, Cynthia",MFA,MFA,MFA,1
+10,10,2016,10/10/2016,106,"Klein, Victoria",NA,MC,MC,NA
+10,7,2016,10/7/2016,105,"McNamara, Devon",NA,MC,MC,NA
+10,17,2016,10/17/2016,104,"Schroeder, Charles",NA,MC,MC,15
+10,18,2016,10/18/2016,104,"Schroeder, Charles",NA,MC,MC,20
+12,5,2016,12/5/2016,105,"Segraves, Dustin",NA,MC,MC,20
+9,15,2016,9/15/2016,205,"Badawey, Tori",Online test,TS,TS,1
+9,29,2016,9/29/2016,RR,"Okes, Jill",online test - Exam,TS,TS,20
+8,30,2016,8/30/2016,106,"Schwenderman, Brendan",Presentation,SA,PT,3
+11,16,2016,11/16/2016,105,"Okes, Jill",Presentation - Internship Presentation ,SA,PT,5
+12,1,2016,12/1/2016,105,"Shell, Austin",Presentation - Video Presentation ,SA,PT,2
+9,29,2016,9/29/2016,105,"Gookin, Avery",Presentation Practice,SA,PT,2
+10,31,2016,10/31/2016,105,"Newton, Kat",Presentation Practice,SA,PT,3
+10,4,2016,10/4/2016,205,"Smith, Sarah",Presentation Practice,SA,PT,3
+11,30,2016,11/30/2016,205,"Fletcher, Hunter",Presentation Practice,SA,PT,6
+11,30,2016,11/30/2016,106,"Hull, Ethan",Presentation Practice,SA,PT,2
+12,7,2016,12/7/2016,105,"Bercme, Mortimer",Presentation Practice,SA,PT,2
+12,5,2016,12/5/2016,106,"Fletcher, Hunter",Presentation Practice,SA,PT,7
+12,2,2016,12/2/2016,105,"Kibler, Amber",Presentation Practice,SA,PT,2
+12,1,2016,12/1/2016,105,"Newton, Kat",Presentation Practice,SA,PT,5
+12,4,2016,12/4/2016,105,"Pesic-Vidic, Kat",Presentation Practice,SA,PT,6
+12,5,2016,12/5/2016,106,"Pesic-Vidic, Kat",Presentation Practice,SA,PT,7
+12,6,2016,12/6/2016,205,"Shawgo, Shannon",Presentation Practice,SA,PT,3
+12,1,2016,12/1/2016,205,"Walsh, Alexis",Presentation Practice,SA,PT,1
+10,27,2016,10/27/2016,105,"Okes, Jill",Presentations,SA,PT,NA
+7,18,2016,7/18/2016,104,"Probst, Traci",Professional Development,PD,PD,3
+9,29,2016,9/29/2016,104,"Kurfman, Lily",Professional Development,PD,PD,1
+9,16,2016,9/16/2016,104,"Probst, Traci",Professional Development,PD,PD,2
+9,29,2016,9/29/2016,104,"Probst, Traci",Professional Development,PD,PD,5
+9,30,2016,9/30/2016,104,"Probst, Traci",Professional Development,PD,PD,2
+10,13,2016,10/13/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,2
+10,27,2016,10/27/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,3
+10,6,2016,10/6/2016,105,"Okes, Jill",Professional Development,PD,PD,NA
+10,6,2016,10/6/2016,RR,"Okes, Jill",Professional Development,PD,PD,NA
+10,13,2016,10/13/2016,104,"Probst, Traci",Professional Development,PD,PD,2
+10,14,2016,10/14/2016,104,"Probst, Traci",Professional Development,PD,PD,2
+10,14,2016,10/14/2016,104,"Probst, Traci",Professional Development,PD,PD,2
+10,28,2016,10/28/2016,104,"Probst, Traci",Professional Development,PD,PD,2
+10,28,2016,10/28/2016,104,"Probst, Traci",Professional Development,PD,PD,2
+11,4,2016,11/4/2016,104,"Probst, Traci",Professional Development,PD,PD,NA
+11,9,2016,11/9/2016,104,"Probst, Traci",Professional Development,PD,PD,NA
+11,11,2016,11/11/2016,104,"Probst, Traci",Professional Development,PD,PD,NA
+12,12,2016,12/12/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,NA
+12,14,2016,12/14/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,NA
+12,14,2016,12/14/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,NA
+12,15,2016,12/15/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,NA
+12,15,2016,12/15/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,NA
+12,16,2016,12/16/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,NA
+12,16,2016,12/16/2016,104,"Brissey, Cynthia",Professional Development,PD,PD,NA
+12,1,2016,12/1/2016,104,"Probst, Traci",Professional Development,PD,PD,NA
+12,1,2016,12/1/2016,104,"Probst, Traci",Professional Development,PD,PD,NA
+8,10,2016,8/10/2016,104,"Probst, Traci",Professional Development - Annotation Software,PD,PD,4
+8,10,2016,8/10/2016,104,"Probst, Traci",Professional Development - Annotation Software,PD,PD,2
+9,8,2016,9/8/2016,104,"Brissey, Cynthia",Professional Development - Classroom Design,PD,PD,5
+9,9,2016,9/9/2016,104,"Brissey, Cynthia",Professional Development - Classroom Design,PD,PD,6
+11,17,2016,11/17/2016,104,"Warsinsky, Suzanne",Professional Development - Course Development,PD,PD,1
+8,3,2016,8/3/2016,104,"McGrew, Paula",Professional Development - Mintell Training,PD,PD,5
+8,11,2016,8/11/2016,104,"Probst, Traci",Professional Development - New Technology Session,PD,PD,2
+8,11,2016,8/11/2016,104,"Probst, Traci",Professional Development - New Technology Session,PD,PD,2
+8,11,2016,8/11/2016,104,"Probst, Traci",Professional Development - NTR: Present From Your Device,PD,PD,2
+8,11,2016,8/11/2016,104,"Probst, Traci",Professional Development - NTR: Present From Your Device,PD,PD,2
+12,13,2016,12/13/2016,104,"Brissey, Cynthia",Professional Development - Ras Gurung,PD,PD,NA
+12,9,2016,12/9/2016,104,"Brissey, Cynthia",Professional Development - Social Science Assessment,PD,PD,NA
+9,8,2016,9/8/2016,104,"Brissey, Cynthia",Professional Development - Susan Rice - Taskstream,PD,PD,2
+11,29,2016,11/29/2016,104,"Brissey, Cynthia",Professional Development - Suzanne Warsinsky,PD,PD,NA
+12,1,2016,12/1/2016,104,"Brissey, Cynthia",Professional Development - Suzanne Warsinsky,PD,PD,2
+12,6,2016,12/6/2016,104,"Brissey, Cynthia",Professional Development - Suzanne Warsinsky,PD,PD,NA
+12,7,2016,12/7/2016,104,"Brissey, Cynthia",Professional Development - Suzanne Warsinsky,PD,PD,2
+11,4,2016,11/4/2016,105,"Probst, Traci",Professional Development - Technology Training Session,PD,PD,NA
+9,30,2016,9/30/2016,105,"Kuepper, Martha",Professional Development - Webinar,PD,PD,30
+11,9,2016,11/9/2016,104,"Okes, Jill",Professional Development - Webinar - Alumni-hosted Internships at Rice U.,PD,PD,NA
+11,3,2016,11/3/2016,104,"Brissey, Cynthia",Professional Development - Webinar - Analytics,PD,PD,2
+11,16,2016,11/16/2016,104,"Brissey, Cynthia",Professional Development - Webinar - Taskstream,PD,PD,NA
+9,14,2016,9/14/2016,106,"McGrew, Paula",Professional Developmnt - Inauguration,PD,PD,6
+9,12,2016,9/12/2016,205,"Hartman, Sarah",Recording,SA,RC,2
+11,14,2016,11/14/2016,205,"Broadwater, Tyler",Recording - Filming a video for class,SA,RC,3
+11,3,2016,11/3/2016,106,"Echard, Ryan",Recording - Filming a video for class,SA,RC,4
+11,10,2016,11/10/2016,205,"Echard, Ryan",Recording - Filming a video for class,SA,RC,4
+11,14,2016,11/14/2016,106,"Mellert, Andrew",Recording - Filming a video for class,SA,RC,3
+11,16,2016,11/16/2016,106,"Mellert, Andrew",Recording - Filming a video for class,SA,RC,3
+11,3,2016,11/3/2016,106,"Perry, Adam",Recording - Filming a video for class,SA,RC,4
+12,6,2016,12/6/2016,105,"Brown, Tony",Recording - Filming a video for class,SA,RC,2
+11,9,2016,11/9/2016,205,"Kisel, Benjamin",Recording - Fliming a video,SA,RC,3
+10,12,2016,10/12/2016,105,"Detamore, Caleb",Recording - Making a video,SA,RC,2
+10,15,2016,10/15/2016,106,"Bowman, Carol",Recording a presentation,SA,RC,4
+11,9,2016,11/9/2016,105,"Gonzalez, Jessica",Test,TS,TS,1
+12,7,2016,12/7/2016,205,"Gonzalez, Jessica",Test taking,TS,TS,1
+12,7,2016,12/7/2016,205,"Teets, Delana",Test taking,TS,TS,1
+8,31,2016,8/31/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+9,12,2016,9/12/2016,105,"Winkie, Mason",Tutoring,TT,TT,2
+9,12,2016,9/12/2016,105,"Winkie, Mason",Tutoring,TT,TT,2
+9,21,2016,9/21/2016,105,"Winkie, Mason",Tutoring,TT,TT,2
+9,9,2016,9/9/2016,106,"Winkie, Mason",Tutoring,TT,TT,5
+9,7,2016,9/7/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+9,19,2016,9/19/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+9,20,2016,9/20/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+9,28,2016,9/28/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+10,10,2016,10/10/2016,205,"Nakatani, Yuya",Tutoring,TT,TT,2
+10,17,2016,10/17/2016,105,"Winkie, Mason",Tutoring,TT,TT,2
+10,28,2016,10/28/2016,106,"Winkie, Mason",Tutoring,TT,TT,2
+10,5,2016,10/5/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+10,7,2016,10/7/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+10,12,2016,10/12/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+10,14,2016,10/14/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+10,28,2016,10/28/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+10,31,2016,10/31/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+11,28,2016,11/28/2016,106,"Collett, Cayla",Tutoring,TT,TT,4
+11,4,2016,11/4/2016,106,"Winkie, Mason",Tutoring,TT,TT,2
+11,2,2016,11/2/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+11,11,2016,11/11/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+11,30,2016,11/30/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+11,9,2016,11/9/2016,209,"Winkie, Mason",Tutoring,TT,TT,2
+12,5,2016,12/5/2016,105,"Collett, Cayla",Tutoring,TT,TT,3
+12,2,2016,12/2/2016,106,"Winkie, Mason",Tutoring,TT,TT,2
+12,2,2016,12/2/2016,205,"Winkie, Mason",Tutoring,TT,TT,2
+8,28,2016,8/28/2016,105,"Giberson, Ryan",Video Viewing,IN,VV,4
+8,24,2016,8/24/2016,105,"Kittle, Dahlton",Video Viewing,IN,VV,2
+8,25,2016,8/25/2016,105,"McNamara, Devon",Video Viewing,IN,VV,15
+8,30,2016,8/30/2016,106,"Schoffler, Tommy",Video Viewing,IN,VV,7
+9,15,2016,9/15/2016,106,"DuBois, Elena",Video Viewing,IN,VV,NA
+9,1,2016,9/1/2016,105,"McNamara, Devon",Video Viewing,IN,VV,8
+9,8,2016,9/8/2016,105,"McNamara, Devon",Video Viewing,IN,VV,8
+10,18,2016,10/18/2016,105,"Hull, Rob",Video Viewing,IN,VV,NA
+10,11,2016,10/11/2016,105,"McGrew, Paula",Video Viewing,IN,VV,18
+10,27,2016,10/27/2016,105,"McNamara, Devon",Video Viewing,IN,VV,15
+10,30,2016,10/30/2016,105,"McNamara, Devon",Video Viewing,IN,VV,15
+11,4,2016,11/4/2016,105,"Cresswell, Stephen",Video Viewing,IN,VV,NA
+11,6,2016,11/6/2016,105,"McNamara, Devon",Video Viewing,IN,VV,10
+11,17,2016,11/17/2016,105,"McNamara, Devon",Video Viewing,IN,VV,12
+12,5,2016,12/5/2016,105,"Chapman, Chris",Video Viewing,IN,VV,25
+12,7,2016,12/7/2016,105,"Chapman, Chris",Video Viewing,IN,VV,25
+12,11,2016,12/11/2016,105,"Germain, Taylor",Video Viewing,IN,VV,10
+12,8,2016,12/8/2016,105,"McNamara, Devon",Video Viewing,IN,VV,15
+7,18,2016,7/18/2016,210,"McKisic, Leon",Women in Leadership meetings,MG,MG,8
+7,29,2016,7/29/2016,104,"Pritts, Barry",Yard Sale Group,MC,MC,12
