@@ -1,5 +1,12 @@
 # library
 R Shiny code for WVWC library EDA
+
+The files are as follows:
+
+shiny_test.R: creates a two-way table using Shiny
+
+Library_EDA.R: performs basic exploratory data analysis (EDA) on WVWC library data
+
 Here are the codes for the Event_Cat1 and Event_Cat2 variables
 
 Codes for Event_Cat1
